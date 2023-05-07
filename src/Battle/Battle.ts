@@ -1,3 +1,4 @@
+// INICIO DO PROJETO
 // import Fighter from '../Fighter';
 
 // abstract class Battle {
